@@ -1,6 +1,6 @@
 # Transformers-Blockchain
-# <p align=center> [A Survey of Visual Transformers]</p>
-# Reference
+# <p align=center> [The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Review]</p>
+# References
 S. Nakamoto, “Bitcoin: A peer-to-peer electronic cash system,” 2008.
 
 D. Tapscott and A. Tapscott, Blockchain revolution:how the technology behind bitcoin is changing money,business, and the world. Penguin, 2016.
